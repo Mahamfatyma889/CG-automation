@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA_Automation\\Assignment2_TestCases\\SmokeTestCases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{300167D4-03B9-4C73-8459-3199A38352B5}|SmokeTestCases\\SmokeTestCases.csproj|d:\\qa_automation\\assignment2_testcases\\smoketestcases\\smoketestcases\\smoketestcases.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{300167D4-03B9-4C73-8459-3199A38352B5}|SmokeTestCases\\SmokeTestCases.csproj|solutionrelative:smoketestcases\\smoketestcases.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300167D4-03B9-4C73-8459-3199A38352B5}|SmokeTestCases\\SmokeTestCases.csproj|d:\\qa_automation\\assignment2_testcases\\smoketestcases\\smoketestcases\\seleniumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300167D4-03B9-4C73-8459-3199A38352B5}|SmokeTestCases\\SmokeTestCases.csproj|solutionrelative:smoketestcases\\seleniumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300167D4-03B9-4C73-8459-3199A38352B5}|SmokeTestCases\\SmokeTestCases.csproj|d:\\qa_automation\\assignment2_testcases\\smoketestcases\\smoketestcases\\smoketestcases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{300167D4-03B9-4C73-8459-3199A38352B5}|SmokeTestCases\\SmokeTestCases.csproj|solutionrelative:smoketestcases\\smoketestcases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300167D4-03B9-4C73-8459-3199A38352B5}|SmokeTestCases\\SmokeTestCases.csproj|d:\\qa_automation\\assignment2_testcases\\smoketestcases\\smoketestcases\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300167D4-03B9-4C73-8459-3199A38352B5}|SmokeTestCases\\SmokeTestCases.csproj|solutionrelative:smoketestcases\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300167D4-03B9-4C73-8459-3199A38352B5}|SmokeTestCases\\SmokeTestCases.csproj|d:\\qa_automation\\assignment2_testcases\\smoketestcases\\smoketestcases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300167D4-03B9-4C73-8459-3199A38352B5}|SmokeTestCases\\SmokeTestCases.csproj|solutionrelative:smoketestcases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmokeTestCases",
+              "DocumentMoniker": "D:\\QA_Automation\\Assignment2_TestCases\\SmokeTestCases\\SmokeTestCases\\SmokeTestCases.csproj",
+              "RelativeDocumentMoniker": "SmokeTestCases\\SmokeTestCases.csproj",
+              "ToolTip": "D:\\QA_Automation\\Assignment2_TestCases\\SmokeTestCases\\SmokeTestCases\\SmokeTestCases.csproj",
+              "RelativeToolTip": "SmokeTestCases\\SmokeTestCases.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T06:16:06.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmokeTestCases.csproj",
+              "DocumentMoniker": "D:\\QA_Automation\\Assignment2_TestCases\\SmokeTestCases\\SmokeTestCases\\SmokeTestCases.csproj",
+              "RelativeDocumentMoniker": "SmokeTestCases\\SmokeTestCases.csproj",
+              "ToolTip": "D:\\QA_Automation\\Assignment2_TestCases\\SmokeTestCases\\SmokeTestCases\\SmokeTestCases.csproj",
+              "RelativeToolTip": "SmokeTestCases\\SmokeTestCases.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T12:06:05.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "seleniumHelper.cs",
+              "DocumentMoniker": "D:\\QA_Automation\\Assignment2_TestCases\\SmokeTestCases\\SmokeTestCases\\seleniumHelper.cs",
+              "RelativeDocumentMoniker": "SmokeTestCases\\seleniumHelper.cs",
+              "ToolTip": "D:\\QA_Automation\\Assignment2_TestCases\\SmokeTestCases\\SmokeTestCases\\seleniumHelper.cs",
+              "RelativeToolTip": "SmokeTestCases\\seleniumHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:38:08.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "driver.cs",
+              "DocumentMoniker": "D:\\QA_Automation\\Assignment2_TestCases\\SmokeTestCases\\SmokeTestCases\\driver.cs",
+              "RelativeDocumentMoniker": "SmokeTestCases\\driver.cs",
+              "ToolTip": "D:\\QA_Automation\\Assignment2_TestCases\\SmokeTestCases\\SmokeTestCases\\driver.cs",
+              "RelativeToolTip": "SmokeTestCases\\driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:37:47.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QA_Automation\\Assignment2_TestCases\\SmokeTestCases\\SmokeTestCases\\Program.cs",
+              "RelativeDocumentMoniker": "SmokeTestCases\\Program.cs",
+              "ToolTip": "D:\\QA_Automation\\Assignment2_TestCases\\SmokeTestCases\\SmokeTestCases\\Program.cs",
+              "RelativeToolTip": "SmokeTestCases\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:34:15.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
